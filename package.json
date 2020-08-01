@@ -9,6 +9,6 @@
     "babel-preset-react": "6.24.1"
    },
    "scripts": {
-       "start": "node app.js"
+       "start": "public/scripts/app.js"
         },
 }
